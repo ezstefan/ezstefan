@@ -9,6 +9,9 @@ Get in touch: [amandeepkhajan@gmail.com](mailto:amandeepkhajan@gmail.com)
 
 ## 🏆 Achievements
 - Secured **23rd** overall Global Rank in 15th year of Fyziklani 2021 organized on behalf of **Ministry of Education, Youth and Sports of Czech Republic** and Department of Applied Mathematics and Theoretical Physics, Charles University
+- **INFOSYS:** Certification of Merit from Infosys in Data Science, Artificial Intelligence, Deep learning, Natural Language Processing, Agile & Scrum, Computer Vision, Generative Models, OpenAI GPT models, Robotic Process Automation.
+- **AMAZON WEB SERVICES:** Secured 220th India Rank, 687th World Rank in Amazon Web Services DeepRacer’24 to develop 
+reinforcement learning model based on PPO algorithm, utilizing and optimizing various hyperparameters.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amandeep-khajan-b28962321/)
