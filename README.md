@@ -4,7 +4,7 @@
 🌟 Passionate about **data analytics** and leveraging data-driven insights to solve complex problems and drive decision-making.<br>
 📚 Proficient in **Data Structures & Algorithms, Machine Learning, Software Testing, OS, DBMS, OOP,** and **Natural Language Processing**.<br>
 
-[Resume](https://drive.google.com/file/d/1zHEPYNt_Qd6yJxOIBLEiIeIVDxvblMxm/view?usp=drive_link)  
+[Resume](https://drive.google.com/file/d/13rxMi5n--9fSI2czApnL14etroCBYyMJ/view?usp=drive_link)  
 Get in touch: [amandeepkhajan@gmail.com](mailto:amandeepkhajan@gmail.com)
 
 ## 🏆 Achievements
